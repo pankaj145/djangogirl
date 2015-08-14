@@ -1,0 +1,2 @@
+# djangogirl
+Django tutorial
